@@ -1,0 +1,7 @@
+/*
+  Created by Volodymyr Andriienko on 11/3/21.
+  Copyright © 2021 VAndrJ. All rights reserved.
+*/
+"k_location_unknown" = "Location unknown";
+"k_permission_denied" = "Access to the location is not allowed. Allow permission in settings";
+"k_unknown_error" = "other Core Location error";
